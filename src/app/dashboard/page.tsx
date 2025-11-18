@@ -1,5 +1,6 @@
 "use client";
-import SalesChart from "@/components/SalesChart";
+import SalesChart from "../components/SalesChart";
+
 
 export default function DashboardPage() {
   return (
